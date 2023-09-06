@@ -3,3 +3,4 @@ export const fetchApi = async (url) => {
     const data = response.json();
     return data;
 }
+
